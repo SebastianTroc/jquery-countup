@@ -187,8 +187,6 @@
 			var month  = '<span id='+newOptions["class_prefix"]+'_month">'+time.month+' '+_lang[newOptions['lang']].month+newOptions['seperator']+' </span>';
 			var day    = '<span id='+newOptions["class_prefix"]+'_day">'+time.day+' '+_lang[newOptions['lang']].day+newOptions['seperator']+' </span>';
 			var hour   = '<span id='+newOptions["class_prefix"]+'_hour">'+time.hour+' '+_lang[newOptions['lang']].hour+newOptions['seperator']+' </span>';
-			var day    = '<span id='+newOptions["class_prefix"]+'_day">'+time.day+' '+_lang[newOptions['lang']].day+newOptions['seperator']+' </span>';
-			var hour   = '<span id='+newOptions["class_prefix"]+'_hour">'+time.hour+' '+_lang[newOptions['lang']].hour+newOptions['seperator']+' </span>';
 			var minute = '<span id='+newOptions["class_prefix"]+'_minute">'+time.minute+' '+_lang[newOptions['lang']].minute+newOptions['seperator']+' </span>';
 			var seconds = '<span id='+newOptions["class_prefix"]+'_seconds">'+time.seconds+' '+_lang[newOptions['lang']].seconds+' </span>';
 			
